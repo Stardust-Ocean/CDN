@@ -34,7 +34,7 @@ live2d_settings['showCopyMessage']      = true;         // 显示 复制内容 �
 live2d_settings['showWelcomeMessage']   = true;         // 显示进入面页欢迎词
 
 //看板娘样式设置
-live2d_settings['waifuSize']            = '180x150';    // 看板娘大小，例如 '180x150', '600x535'
+live2d_settings['waifuSize']            = '80x50';    // 看板娘大小，例如 '180x150', '600x535'
 live2d_settings['waifuTipsSize']        = '150x30';     // 提示框大小，例如 '150x30', '570x150'
 live2d_settings['waifuFontSize']        = '12px';       // 提示框字体，例如 '12px', '30px'
 live2d_settings['waifuToolFont']        = '14px';       // 工具栏字体，例如 '14px', '36px'
